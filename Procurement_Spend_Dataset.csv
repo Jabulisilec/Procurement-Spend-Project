@@ -1,0 +1,201 @@
+PO_Number,Order_Date,Supplier,Category,Item_Name,Quantity,Unit_Price,Total_Spend,Department,Delivery_Days
+PO1000,2025-03-29,ABC Industrial,Maintenance,Machine Bolt,108,1333.42,144009.36,Warehouse,6
+PO1001,2025-01-23,LogiSource Ltd,Office Supplies,Printer Paper,161,1486.95,239398.95,Warehouse,15
+PO1002,2025-06-12,ABC Industrial,PPE,Machine Bolt,94,1299.06,122111.64,Warehouse,20
+PO1003,2025-07-19,LogiSource Ltd,Maintenance,Safety Boots,177,1442.59,255338.43,Procurement,20
+PO1004,2025-01-25,Mining Equipment Co,PPE,Wrench Set,25,1202.04,30051,Administration,15
+PO1005,2025-07-21,Mining Equipment Co,PPE,Machine Bolt,153,307.26,47010.78,Administration,12
+PO1006,2025-03-02,ABC Industrial,Office Supplies,Hard Hat,166,1071.61,177887.26,Maintenance,7
+PO1007,2025-04-25,ABC Industrial,PPE,Hard Hat,55,1473.3,81031.5,Administration,3
+PO1008,2025-06-27,LogiSource Ltd,Machinery Parts,Machine Bolt,38,578.14,21969.32,Warehouse,21
+PO1009,2025-08-04,ABC Industrial,Tools,Wrench Set,188,790.57,148627.16,Maintenance,20
+PO1010,2025-08-19,ABC Industrial,Tools,Safety Gloves,127,720.72,91531.44,Maintenance,6
+PO1011,2025-03-18,Prime Vendors,Office Supplies,Machine Bolt,97,518.9,50333.3,Operations,19
+PO1012,2025-05-26,Global Safety Supplies,Maintenance,Safety Gloves,163,1060.52,172864.76,Procurement,18
+PO1013,2025-03-17,Prime Vendors,Machinery Parts,Safety Gloves,21,528.61,11100.81,Warehouse,8
+PO1014,2025-08-16,Mining Equipment Co,Tools,Machine Bolt,156,211.99,33070.44,Warehouse,15
+PO1015,2025-05-21,ABC Industrial,Machinery Parts,Safety Boots,51,1089.17,55547.67,Procurement,12
+PO1016,2025-02-13,Mining Equipment Co,Machinery Parts,Hard Hat,117,151.54,17730.18,Operations,8
+PO1017,2025-10-19,Global Safety Supplies,Machinery Parts,Wrench Set,38,775.48,29468.24,Administration,4
+PO1018,2025-07-18,ABC Industrial,Machinery Parts,Wrench Set,187,240.78,45025.86,Administration,3
+PO1019,2025-10-23,Global Safety Supplies,Maintenance,Hard Hat,127,135.21,17171.67,Operations,2
+PO1020,2025-10-27,Global Safety Supplies,PPE,Hard Hat,125,1134.44,141805,Procurement,12
+PO1021,2025-07-06,LogiSource Ltd,Office Supplies,Printer Paper,180,148.22,26679.6,Operations,17
+PO1022,2025-12-10,ABC Industrial,Tools,Wrench Set,80,586.49,46919.2,Administration,16
+PO1023,2025-04-28,Prime Vendors,PPE,Hard Hat,18,1365.03,24570.54,Operations,8
+PO1024,2025-09-29,Global Safety Supplies,Machinery Parts,Safety Boots,186,1195.53,222368.58,Administration,2
+PO1025,2025-09-07,Global Safety Supplies,Maintenance,Hard Hat,124,1197.75,148521,Operations,7
+PO1026,2025-11-05,Global Safety Supplies,Machinery Parts,Safety Gloves,30,1191.3,35739,Operations,8
+PO1027,2025-09-28,Global Safety Supplies,Machinery Parts,Safety Gloves,135,1481.93,200060.55,Operations,18
+PO1028,2025-10-25,LogiSource Ltd,Machinery Parts,Printer Paper,37,315.57,11676.09,Maintenance,5
+PO1029,2025-09-13,Prime Vendors,Office Supplies,Safety Boots,48,111.48,5351.04,Maintenance,16
+PO1030,2025-10-13,Mining Equipment Co,Tools,Printer Paper,22,1010.93,22240.46,Warehouse,17
+PO1031,2025-04-13,ABC Industrial,Tools,Machine Bolt,60,863.79,51827.4,Operations,9
+PO1032,2025-10-20,Prime Vendors,Machinery Parts,Safety Gloves,117,53.01,6202.17,Maintenance,19
+PO1033,2025-08-21,Global Safety Supplies,Office Supplies,Safety Gloves,186,816.86,151935.96,Maintenance,15
+PO1034,2025-11-19,Mining Equipment Co,Maintenance,Machine Bolt,158,1257.94,198754.52,Warehouse,11
+PO1035,2025-06-29,ABC Industrial,Office Supplies,Safety Gloves,152,319.34,48539.68,Procurement,21
+PO1036,2025-02-21,Prime Vendors,Tools,Safety Boots,91,1104.27,100488.57,Operations,21
+PO1037,2025-07-05,LogiSource Ltd,PPE,Wrench Set,49,1107.21,54253.29,Maintenance,13
+PO1038,2025-09-30,LogiSource Ltd,Office Supplies,Printer Paper,159,1180.92,187766.28,Operations,12
+PO1039,2025-07-26,Prime Vendors,Tools,Machine Bolt,55,1104.95,60772.25,Procurement,17
+PO1040,2025-10-19,ABC Industrial,Office Supplies,Wrench Set,37,1231.7,45572.9,Procurement,18
+PO1041,2025-12-15,Mining Equipment Co,Maintenance,Wrench Set,57,1175.98,67030.86,Maintenance,3
+PO1042,2025-08-08,Global Safety Supplies,PPE,Printer Paper,151,255.1,38520.1,Warehouse,18
+PO1043,2025-07-14,Prime Vendors,PPE,Hard Hat,89,467.62,41618.18,Operations,12
+PO1044,2025-04-19,Prime Vendors,Maintenance,Wrench Set,106,1298.11,137599.66,Maintenance,2
+PO1045,2025-03-23,ABC Industrial,Machinery Parts,Safety Boots,11,650.46,7155.06,Operations,21
+PO1046,2025-03-02,Global Safety Supplies,Machinery Parts,Wrench Set,82,1147.7,94111.4,Procurement,13
+PO1047,2025-10-28,Prime Vendors,PPE,Printer Paper,70,188.14,13169.8,Operations,13
+PO1048,2025-08-06,ABC Industrial,Office Supplies,Hard Hat,180,955.65,172017,Maintenance,11
+PO1049,2025-05-04,ABC Industrial,Maintenance,Printer Paper,76,1228.47,93363.72,Warehouse,16
+PO1050,2025-11-26,Prime Vendors,Tools,Safety Gloves,150,940.54,141081,Administration,17
+PO1051,2025-01-02,Global Safety Supplies,Machinery Parts,Hard Hat,166,56.22,9332.52,Warehouse,2
+PO1052,2025-05-28,Prime Vendors,PPE,Hard Hat,93,612.82,56992.26,Operations,2
+PO1053,2025-01-20,LogiSource Ltd,Tools,Hard Hat,113,698.37,78915.81,Procurement,17
+PO1054,2025-05-15,Global Safety Supplies,Tools,Safety Boots,42,196.59,8256.78,Administration,15
+PO1055,2025-10-27,Global Safety Supplies,Tools,Machine Bolt,184,856.53,157601.52,Warehouse,9
+PO1056,2025-01-06,Prime Vendors,Tools,Printer Paper,171,861.79,147366.09,Procurement,11
+PO1057,2025-11-26,LogiSource Ltd,PPE,Machine Bolt,30,597.05,17911.5,Warehouse,13
+PO1058,2025-06-16,LogiSource Ltd,Maintenance,Safety Boots,24,170.12,4082.88,Administration,15
+PO1059,2025-10-24,LogiSource Ltd,Maintenance,Safety Gloves,193,472.13,91121.09,Operations,14
+PO1060,2025-09-14,ABC Industrial,PPE,Safety Boots,30,123.25,3697.5,Procurement,19
+PO1061,2025-01-16,Mining Equipment Co,Tools,Safety Boots,67,881.08,59032.36,Operations,16
+PO1062,2025-09-05,LogiSource Ltd,Tools,Wrench Set,50,340.14,17007,Administration,8
+PO1063,2025-01-15,Prime Vendors,Machinery Parts,Printer Paper,74,1042.28,77128.72,Warehouse,13
+PO1064,2025-04-05,Prime Vendors,Machinery Parts,Safety Boots,40,322.12,12884.8,Warehouse,17
+PO1065,2025-05-04,Mining Equipment Co,PPE,Wrench Set,69,521.07,35953.83,Administration,3
+PO1066,2025-02-16,Prime Vendors,Machinery Parts,Hard Hat,89,1197.95,106617.55,Warehouse,14
+PO1067,2025-03-06,Global Safety Supplies,PPE,Safety Gloves,64,955.74,61167.36,Administration,10
+PO1068,2025-07-18,Prime Vendors,Maintenance,Printer Paper,21,970.32,20376.72,Maintenance,19
+PO1069,2025-01-17,Mining Equipment Co,Maintenance,Machine Bolt,159,772.13,122768.67,Operations,14
+PO1070,2025-06-23,Mining Equipment Co,Tools,Hard Hat,94,1069.02,100487.88,Administration,15
+PO1071,2025-06-29,Mining Equipment Co,Maintenance,Printer Paper,184,518.69,95438.96,Operations,5
+PO1072,2025-12-05,Global Safety Supplies,Office Supplies,Safety Gloves,174,986.32,171619.68,Procurement,7
+PO1073,2025-10-31,Mining Equipment Co,PPE,Machine Bolt,32,1209.89,38716.48,Maintenance,4
+PO1074,2025-11-11,Prime Vendors,PPE,Wrench Set,161,113.63,18294.43,Operations,8
+PO1075,2025-09-04,Global Safety Supplies,Office Supplies,Hard Hat,63,1459.6,91954.8,Operations,3
+PO1076,2025-08-01,Mining Equipment Co,Maintenance,Safety Boots,138,128.47,17728.86,Warehouse,4
+PO1077,2025-02-01,LogiSource Ltd,Office Supplies,Machine Bolt,180,503.74,90673.2,Maintenance,10
+PO1078,2025-04-25,Global Safety Supplies,Maintenance,Safety Gloves,112,844.03,94531.36,Operations,17
+PO1079,2025-05-25,Global Safety Supplies,Maintenance,Printer Paper,101,1384.3,139814.3,Administration,10
+PO1080,2025-03-16,Prime Vendors,PPE,Safety Boots,115,127.33,14642.95,Administration,21
+PO1081,2025-09-27,Mining Equipment Co,Tools,Wrench Set,51,1097.18,55956.18,Maintenance,8
+PO1082,2025-01-06,Prime Vendors,Machinery Parts,Machine Bolt,139,984.63,136863.57,Warehouse,6
+PO1083,2025-04-12,Mining Equipment Co,Machinery Parts,Hard Hat,171,1225.83,209616.93,Administration,3
+PO1084,2025-07-11,Prime Vendors,Machinery Parts,Machine Bolt,162,324.93,52638.66,Warehouse,18
+PO1085,2025-04-05,Prime Vendors,Maintenance,Safety Boots,158,952.9,150558.2,Administration,7
+PO1086,2025-06-30,Prime Vendors,Machinery Parts,Safety Boots,152,516.77,78549.04,Warehouse,6
+PO1087,2025-04-28,Global Safety Supplies,Tools,Wrench Set,150,407.05,61057.5,Administration,10
+PO1088,2025-07-21,Mining Equipment Co,PPE,Safety Boots,149,526.43,78438.07,Maintenance,4
+PO1089,2025-08-25,ABC Industrial,Tools,Safety Boots,122,252.41,30794.02,Operations,17
+PO1090,2025-02-02,Mining Equipment Co,PPE,Printer Paper,160,1320.58,211292.8,Maintenance,13
+PO1091,2025-08-07,Mining Equipment Co,Office Supplies,Safety Boots,153,698.83,106920.99,Procurement,16
+PO1092,2025-09-14,LogiSource Ltd,Machinery Parts,Safety Gloves,78,439.1,34249.8,Warehouse,9
+PO1093,2025-01-18,Prime Vendors,Maintenance,Machine Bolt,76,283.17,21520.92,Warehouse,4
+PO1094,2025-09-25,Prime Vendors,Maintenance,Printer Paper,53,414.73,21980.69,Operations,14
+PO1095,2025-07-21,LogiSource Ltd,Maintenance,Safety Gloves,149,626.82,93396.18,Administration,15
+PO1096,2025-08-25,Prime Vendors,Machinery Parts,Wrench Set,186,131.93,24538.98,Warehouse,8
+PO1097,2025-09-19,LogiSource Ltd,Office Supplies,Printer Paper,110,1110.19,122120.9,Administration,3
+PO1098,2025-07-08,Global Safety Supplies,Office Supplies,Printer Paper,133,942.85,125399.05,Operations,8
+PO1099,2025-08-21,ABC Industrial,Maintenance,Hard Hat,135,703.74,95004.9,Procurement,19
+PO1100,2025-07-20,Prime Vendors,Maintenance,Safety Boots,60,82.57,4954.2,Maintenance,21
+PO1101,2025-12-19,Mining Equipment Co,Maintenance,Machine Bolt,160,732.98,117276.8,Warehouse,3
+PO1102,2025-09-28,Prime Vendors,Office Supplies,Wrench Set,180,611.2,110016,Administration,18
+PO1103,2025-04-23,Mining Equipment Co,Office Supplies,Safety Boots,150,1072.91,160936.5,Maintenance,3
+PO1104,2025-07-09,Mining Equipment Co,Tools,Wrench Set,50,442.29,22114.5,Maintenance,7
+PO1105,2025-02-08,ABC Industrial,Maintenance,Printer Paper,162,881.57,142814.34,Operations,2
+PO1106,2025-12-29,LogiSource Ltd,Maintenance,Safety Gloves,93,603.93,56165.49,Procurement,21
+PO1107,2025-10-01,Mining Equipment Co,PPE,Safety Boots,34,648.75,22057.5,Maintenance,3
+PO1108,2025-01-31,LogiSource Ltd,Maintenance,Wrench Set,27,462.53,12488.31,Operations,11
+PO1109,2025-10-27,LogiSource Ltd,Tools,Hard Hat,161,248.12,39947.32,Administration,4
+PO1110,2025-11-11,Prime Vendors,Machinery Parts,Hard Hat,26,1096.55,28510.3,Operations,19
+PO1111,2025-02-06,ABC Industrial,Machinery Parts,Hard Hat,183,602.57,110270.31,Procurement,9
+PO1112,2025-10-29,Mining Equipment Co,PPE,Safety Gloves,198,1441.85,285486.3,Maintenance,8
+PO1113,2025-07-26,ABC Industrial,Maintenance,Hard Hat,196,551.2,108035.2,Maintenance,3
+PO1114,2025-10-23,LogiSource Ltd,PPE,Hard Hat,68,561.2,38161.6,Maintenance,3
+PO1115,2025-01-28,Prime Vendors,Tools,Wrench Set,40,1488.52,59540.8,Warehouse,15
+PO1116,2025-10-30,Global Safety Supplies,Maintenance,Safety Boots,101,146.26,14772.26,Operations,21
+PO1117,2025-03-19,Global Safety Supplies,Office Supplies,Printer Paper,50,1245.49,62274.5,Operations,14
+PO1118,2025-10-16,Global Safety Supplies,Maintenance,Machine Bolt,196,1070.2,209759.2,Administration,9
+PO1119,2025-01-14,Global Safety Supplies,Machinery Parts,Safety Boots,183,379.44,69437.52,Warehouse,6
+PO1120,2025-11-23,Global Safety Supplies,Office Supplies,Safety Gloves,51,345.33,17611.83,Maintenance,6
+PO1121,2025-05-06,ABC Industrial,Maintenance,Wrench Set,170,458.55,77953.5,Procurement,5
+PO1122,2025-09-17,ABC Industrial,Tools,Wrench Set,51,332.13,16938.63,Procurement,10
+PO1123,2025-07-10,ABC Industrial,Maintenance,Machine Bolt,179,1218.67,218141.93,Warehouse,11
+PO1124,2025-03-10,Prime Vendors,PPE,Wrench Set,29,1231.82,35722.78,Procurement,16
+PO1125,2025-08-03,ABC Industrial,Office Supplies,Machine Bolt,47,1407.38,66146.86,Procurement,16
+PO1126,2025-11-01,Prime Vendors,Office Supplies,Safety Boots,149,874.37,130281.13,Maintenance,9
+PO1127,2025-03-02,LogiSource Ltd,Maintenance,Hard Hat,85,81.08,6891.8,Administration,15
+PO1128,2025-06-04,Prime Vendors,Tools,Safety Boots,50,642.09,32104.5,Operations,10
+PO1129,2025-06-16,LogiSource Ltd,Tools,Safety Boots,23,1462.7,33642.1,Operations,10
+PO1130,2025-09-23,Global Safety Supplies,Maintenance,Machine Bolt,28,1330.87,37264.36,Administration,19
+PO1131,2025-01-01,ABC Industrial,Office Supplies,Safety Gloves,126,765.5,96453,Maintenance,4
+PO1132,2025-05-30,Mining Equipment Co,Office Supplies,Machine Bolt,86,465.08,39996.88,Procurement,14
+PO1133,2025-10-18,LogiSource Ltd,Tools,Safety Gloves,137,1263.15,173051.55,Maintenance,12
+PO1134,2025-05-28,LogiSource Ltd,Maintenance,Printer Paper,139,1404.67,195249.13,Operations,15
+PO1135,2025-08-05,LogiSource Ltd,PPE,Printer Paper,92,93.82,8631.44,Warehouse,6
+PO1136,2025-04-27,Global Safety Supplies,Machinery Parts,Hard Hat,174,219.42,38179.08,Maintenance,16
+PO1137,2025-05-04,LogiSource Ltd,Machinery Parts,Wrench Set,195,952.1,185659.5,Maintenance,20
+PO1138,2025-04-18,Prime Vendors,Tools,Wrench Set,132,156.95,20717.4,Procurement,6
+PO1139,2025-09-08,Mining Equipment Co,Machinery Parts,Machine Bolt,129,589.55,76051.95,Maintenance,18
+PO1140,2025-07-07,Global Safety Supplies,PPE,Hard Hat,138,1305.3,180131.4,Procurement,17
+PO1141,2025-05-11,Global Safety Supplies,PPE,Machine Bolt,154,775.13,119370.02,Administration,18
+PO1142,2025-04-11,ABC Industrial,Tools,Hard Hat,87,708.39,61629.93,Procurement,17
+PO1143,2025-10-22,Prime Vendors,Tools,Safety Gloves,38,412.46,15673.48,Procurement,16
+PO1144,2025-09-03,ABC Industrial,Tools,Hard Hat,58,1279.81,74228.98,Warehouse,10
+PO1145,2025-10-02,Prime Vendors,Maintenance,Printer Paper,59,1150.76,67894.84,Warehouse,13
+PO1146,2025-05-12,Global Safety Supplies,Machinery Parts,Hard Hat,118,465.34,54910.12,Maintenance,14
+PO1147,2025-01-16,Global Safety Supplies,PPE,Printer Paper,117,358.27,41917.59,Procurement,14
+PO1148,2025-07-11,Mining Equipment Co,Maintenance,Safety Gloves,31,295.28,9153.68,Procurement,21
+PO1149,2025-09-22,Prime Vendors,Machinery Parts,Printer Paper,58,1497.18,86836.44,Procurement,15
+PO1150,2025-02-03,LogiSource Ltd,Maintenance,Wrench Set,181,1319.15,238766.15,Procurement,2
+PO1151,2025-11-27,Global Safety Supplies,PPE,Safety Boots,92,934.25,85951,Warehouse,9
+PO1152,2025-01-06,LogiSource Ltd,Tools,Hard Hat,103,827.39,85221.17,Procurement,14
+PO1153,2025-02-02,Global Safety Supplies,Tools,Safety Gloves,94,908.41,85390.54,Administration,12
+PO1154,2025-10-02,ABC Industrial,Office Supplies,Safety Gloves,99,297.95,29497.05,Operations,12
+PO1155,2025-10-28,ABC Industrial,Tools,Wrench Set,44,1373.67,60441.48,Operations,5
+PO1156,2025-08-06,ABC Industrial,Maintenance,Hard Hat,80,1355.27,108421.6,Maintenance,21
+PO1157,2025-05-15,LogiSource Ltd,Maintenance,Hard Hat,139,385.49,53583.11,Warehouse,12
+PO1158,2025-07-05,LogiSource Ltd,Tools,Wrench Set,95,945.14,89788.3,Warehouse,5
+PO1159,2025-03-26,Mining Equipment Co,Machinery Parts,Machine Bolt,154,1385.43,213356.22,Procurement,2
+PO1160,2025-10-31,Global Safety Supplies,PPE,Hard Hat,177,1488.58,263478.66,Administration,10
+PO1161,2025-05-11,ABC Industrial,PPE,Printer Paper,182,282.9,51487.8,Procurement,20
+PO1162,2025-03-29,Prime Vendors,Machinery Parts,Safety Boots,95,384.69,36545.55,Operations,13
+PO1163,2025-03-16,Global Safety Supplies,PPE,Wrench Set,40,894.91,35796.4,Operations,3
+PO1164,2025-07-27,Global Safety Supplies,PPE,Safety Gloves,126,296.96,37416.96,Warehouse,6
+PO1165,2025-10-01,Mining Equipment Co,PPE,Wrench Set,92,881.29,81078.68,Operations,18
+PO1166,2025-09-03,Global Safety Supplies,Tools,Safety Gloves,163,1267.09,206535.67,Operations,3
+PO1167,2025-05-15,Prime Vendors,Maintenance,Safety Gloves,56,1188.01,66528.56,Warehouse,3
+PO1168,2025-11-29,Mining Equipment Co,Tools,Printer Paper,134,926.65,124171.1,Administration,14
+PO1169,2025-07-10,Prime Vendors,PPE,Printer Paper,80,695.24,55619.2,Procurement,16
+PO1170,2025-10-05,LogiSource Ltd,Maintenance,Printer Paper,151,737.86,111416.86,Procurement,18
+PO1171,2025-10-06,Global Safety Supplies,Maintenance,Safety Boots,192,392.8,75417.6,Warehouse,4
+PO1172,2025-02-25,LogiSource Ltd,PPE,Safety Boots,64,658.97,42174.08,Administration,7
+PO1173,2025-07-07,LogiSource Ltd,Maintenance,Wrench Set,95,460.83,43778.85,Maintenance,12
+PO1174,2025-11-18,ABC Industrial,PPE,Wrench Set,139,652.65,90718.35,Operations,8
+PO1175,2025-05-02,Global Safety Supplies,Machinery Parts,Printer Paper,124,1351.31,167562.44,Procurement,21
+PO1176,2025-05-27,LogiSource Ltd,Machinery Parts,Printer Paper,160,1002.45,160392,Operations,14
+PO1177,2025-11-21,Prime Vendors,Machinery Parts,Machine Bolt,18,952.83,17150.94,Maintenance,17
+PO1178,2025-05-27,Mining Equipment Co,Maintenance,Printer Paper,19,197.09,3744.71,Procurement,8
+PO1179,2025-03-29,Mining Equipment Co,Tools,Safety Boots,42,614.59,25812.78,Operations,17
+PO1180,2025-12-28,LogiSource Ltd,PPE,Hard Hat,120,528.52,63422.4,Maintenance,21
+PO1181,2025-02-21,Prime Vendors,Office Supplies,Machine Bolt,32,585.01,18720.32,Warehouse,13
+PO1182,2025-02-06,Global Safety Supplies,Maintenance,Hard Hat,169,812.06,137238.14,Maintenance,14
+PO1183,2025-12-14,Prime Vendors,Office Supplies,Safety Boots,101,827.88,83615.88,Administration,2
+PO1184,2025-07-07,LogiSource Ltd,Machinery Parts,Safety Boots,120,392.71,47125.2,Maintenance,14
+PO1185,2025-10-12,Global Safety Supplies,PPE,Wrench Set,36,1006.47,36232.92,Warehouse,15
+PO1186,2025-08-08,LogiSource Ltd,Office Supplies,Safety Boots,30,190.14,5704.2,Maintenance,9
+PO1187,2025-04-12,Global Safety Supplies,Tools,Machine Bolt,196,1005.57,197091.72,Maintenance,16
+PO1188,2025-03-30,Prime Vendors,PPE,Hard Hat,161,661.31,106470.91,Operations,6
+PO1189,2025-05-24,Prime Vendors,Maintenance,Hard Hat,120,99.14,11896.8,Administration,21
+PO1190,2025-06-11,ABC Industrial,Tools,Safety Boots,23,911.37,20961.51,Maintenance,18
+PO1191,2025-07-21,Mining Equipment Co,Machinery Parts,Printer Paper,11,83.64,920.04,Operations,3
+PO1192,2025-11-18,Prime Vendors,PPE,Safety Gloves,138,294.51,40642.38,Operations,8
+PO1193,2025-02-15,Global Safety Supplies,Maintenance,Printer Paper,152,723.58,109984.16,Administration,12
+PO1194,2025-04-25,Global Safety Supplies,PPE,Safety Gloves,48,1154.74,55427.52,Warehouse,11
+PO1195,2025-03-23,ABC Industrial,Tools,Safety Gloves,33,1424.34,47003.22,Operations,12
+PO1196,2025-06-17,LogiSource Ltd,Office Supplies,Machine Bolt,200,754.5,150900,Maintenance,9
+PO1197,2025-10-26,Mining Equipment Co,Maintenance,Safety Boots,100,528.97,52897,Procurement,21
+PO1198,2025-09-14,ABC Industrial,PPE,Hard Hat,81,1346.59,109073.79,Operations,20
+PO1199,2025-02-22,Mining Equipment Co,Machinery Parts,Safety Gloves,187,1230.89,230176.43,Procurement,21
